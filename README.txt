@@ -5,3 +5,5 @@
 
 This is my experimental repository.
 Now I test the branching/pull/publish
+
+Test with exclusion filter
